@@ -1,6 +1,6 @@
 # CFPB Source Code Policy
 
-This repository [contains](https://github.com/cfpb/source-code-policy/blob/master/cfpb-source-code-policy.txt)
+This repository [contains](blob/master/cfpb-source-code-policy.txt)
 the official [Source Code Policy](http://www.consumerfinance.gov/developers/sourcecodepolicy/) of the
 [Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
 
