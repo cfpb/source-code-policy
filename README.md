@@ -1,8 +1,5 @@
-# CFPB Source Code Policy
+# 18F Source Code Policy
 
-This repository [contains](cfpb-source-code-policy.txt)
-the official [Source Code Policy](http://www.consumerfinance.gov/developers/sourcecodepolicy/) of the
-[Consumer Financial Protection Bureau](http://www.consumerfinance.gov/).
+This repository contains the official [Source Code Policy](18f-source-code-policy.txt) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](https://gsa.gov).
 
-For more about this policy and the philosophy behind it, see
-[this blog entry](http://www.consumerfinance.gov/blog/the-cfpbs-source-code-policy-open-and-shared/).
+For more about this policy and the philosophy behind it, see this blog entry (coming soon).
