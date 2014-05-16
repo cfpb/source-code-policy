@@ -50,7 +50,7 @@ All code as detailed above must be catalogued and shared with the general public
 
 Because all of 18F’s work is to be released into the public domain, forks or clones of our code repositories are free to be re-distributed  into more restrictive licenses, even those that are not considered to be open-source licenses. 
 
-The public can even use our code as the basis of wholly proprietary and commercial systems. 18F would greatly appreciate users of our code disclose its lineage and tell us about their work, but maintains no legal right to require disclosure.
+The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is being used in a new system are always greatly appreciated.
 
 ## Exceptions
 
@@ -67,3 +67,7 @@ These considerations result in an **open-source first policy** at 18F. If a solu
 18F also hereby adopts an **open-development first policy**. Whenever possible, 18F will begin development in the open. If code is developed first in private, the 18F DevOps team will lead an interdisciplinary review to ensure that open-sourcing the code will not result in privacy violations or security vulnerabilities.
 
 When contracting developer services, **18F will require vendors to use FOSS and develop open-source code** wherever possible, given the rationale above.
+
+### Get in touch
+
+Leave an issue, or make a pull request to this repository. To contact us privately, email 18F@gsa.gov.
