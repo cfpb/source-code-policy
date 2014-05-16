@@ -4,11 +4,11 @@
 
 In almost all cases, FOSS meets the definition of "commercial computer software" and shall be given appropriate statutory preference in accordance with 41 USC 264B (reference (b)) (see also FAR 2.101(b), 12_1.html 12.000, 12.101 (reference (c))).
 
-Executive agencies  are required to conduct market research when preparing for the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR 10.001. Market research for software should include OSS.
+Executive agencies  are required to conduct market research when preparing for the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR 10.001. Market research for software should include FOSS.
 
 ## Rationale
 
-There are several positive aspects of OSS that should compel 18F to seek out FOSS when
+There are several positive aspects of FOSS that should compel 18F to seek out FOSS when
 conducting market research:
 
 1. Publicly available source code enables continuous and broad peer review that ensures rigorous security and reliability. Specifically, this process encourages the identification and elimination of defects that might otherwise go unrecognized by a more limited core development team.
