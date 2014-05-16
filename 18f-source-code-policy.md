@@ -24,7 +24,7 @@ not be known in advance.
 
 1. By sharing the responsibility for maintenance of FOSS with others, 18F can benefit by reducing the total cost of ownership for software, particularly compared with software for which 18F has sole responsibility for maintenance.
 
-* FOSS is particularly suitable for rapid prototyping and experimentation, where the ability to "test drive" the software with minimal costs and administrative delays can be important.
+1. FOSS is particularly suitable for rapid prototyping and experimentation, where the ability to "test drive" the software with minimal costs and administrative delays can be important.
 
 ## Distribution of code
 
