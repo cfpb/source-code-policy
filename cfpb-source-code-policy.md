@@ -30,7 +30,6 @@ permalink: /
                critical to CFPB's ability to create new tools and keep pace with industry.
 
             3. Using OSS instead of proprietary software may reduce reliance on a
-
                particular software developer or vendor. OSS can be operated and maintained
                by multiple vendors, thus reducing barriers to entry and exit.
 
@@ -107,6 +106,6 @@ permalink: /
 
         3. The public release of the item is restricted by other law or regulation, such as the
            Export Administration Regulations or the International Traffic in Arms Regulation.
-           
+
         4. CFPB cybersecurity staff determine that the public release of such code would pose an
            unacceptable risk to CFPB's operational security.
