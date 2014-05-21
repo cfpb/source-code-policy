@@ -1,0 +1,23 @@
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="//fast.fonts.net/cssapi/0a274127-32a9-474a-bbdb-f23f410e88c5.css">
+    <link rel="stylesheet" href="//cfpb.github.io/css/site.css">
+    <style>
+      body { padding: 25px; }
+      li ol { margin-left: 3em; counter-reset: list; }
+      li { list-style: decimal; text-transform: uppercase; }
+      li li { list-style: none;  position: relative; text-transform: none;  }
+      li li:before { counter-increment: list; content: counter(list, lower-alpha) ") "; position: absolute; left: -1.4em;}
+      li li li:before {content: none; }
+      li li li { list-style-type: lower-alpha; }
+      li li li li { list-style-type: lower-roman; }
+    </style>
+  </head>
+  <body>
+    <h1>{{ page.title }}</h1
+
+    {{ content }}
+
+  </body>
+</html>
