@@ -16,12 +16,15 @@ The default position of 18F is to use Free and Open Source Software (FOSS) in ou
 
 1. **Community involvement.** Publicly available source code enables continuous and broad peer review. Opening the review and testing process to an a larger audience than the development team ensures increased reliability in the software and its security. 
 
-1. **Cost-Savings.** Being able to modify FOSS enables 18F to respond rapidly to changing missions and markets. Flexible licenses remove the traditional restrictions for who can use the software or how it is used, which will allow 18F to create new products and services to keep pace with industry best practices. This leads to cost-savings for our clients and the American people. Support and maintenance of the source code, as opposed to licensing, provides a real cost advantage where multiple copies of software is required or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F.
+1. **Cost-Savings.** Being able to modify FOSS enables 18F to respond rapidly to changing missions and markets. Flexible licenses remove the traditional restrictions for who can use the software or how it is used, which will allow 18F to create new products and services to keep pace with industry best practices. This leads to cost-savings for our clients and the American people. Support and maintenance of the source code, as opposed to licensing, provides a real cost advantage where multiple copies of software is required or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F. 
+
++ In addition, the code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can take advantage of.
 
 <!---
 1. I removed "There are several positive aspects of FOSS that should compel 18F to seek out FOSS when
 conducting market research:" because of the association "market research" has with procurement policy. 
 2. Lots of stuff here was reworded, consolidated, and moved around. 
+3. New addition for the case that the source code we create belongs to the taxpayer/American people. 
 -->
 
 ## Community Involvement
@@ -79,7 +82,7 @@ These considerations result in an **open-source by default policy** at 18F. If a
 
 When contracting developer services, **18F will require vendors to use FOSS and develop open-source code** wherever possible, given the rationale above.
 
-18F would like to thank the Consumer Finance Protection Bureau, DoD, and OMB in their work in blazing the path for the use of FOSS in the Federal Government. 
+18F would like to thank the Consumer Finance Protection Bureau, Department of Defense, and Office of Management and Budget in their work in blazing the path for the use of FOSS in the Federal Government. 
 
 <!---
 Adding a shout out.
