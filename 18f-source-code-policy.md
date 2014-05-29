@@ -82,7 +82,7 @@ These considerations result in an **open-source by default policy** at 18F. If a
 
 When contracting developer services, **18F will require vendors to use FOSS and develop open-source code** wherever possible, given the rationale above.
 
-18F would like to thank the Consumer Finance Protection Bureau, Department of Defense, and Office of Management and Budget in their work in blazing the path for the use of FOSS in the Federal Government. 
+18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget in their work in blazing the path for the use of FOSS in the Federal Government. 
 
 <!---
 Adding a shout out.
