@@ -4,21 +4,21 @@
 Title changed to better reflect changes made herein and the tonal shift I was going for. . 
 -->
 
-18F, a new organization within the General Services Administration, provides in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code and a focus on creating cost-savings for the American people while improving how they are able to interact with their government. 
+18F, a new organization within the General Services Administration, provides in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with their government. 
 
-The default position of 18F is to use Free and Open Source Software (FOSS) in our projects and to contribute back to the open source community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. FOSS creates a number of advantages in how we are able to work, including allowing for  product customization, advancing interoperability between tools, and improving the overall quality to the final product. Other benefits are:
+The default position of 18F is to use Free and Open Source Software (FOSS) in our projects and to contribute back to the open source community. FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code. Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality to the final product. Other benefits include:
 
 <!---
 1. Firming up the definition of FOSS to include how we define "free." Purpose is to differentiate the cost associated with hiring a developer to modify the code versus fees or licensing costs associated with acquiring. 
 -->
 
-1. **Flexible usage.** The benefits to using FOSS compels 18F to meet citizen and consumer needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process creates minimal costs and the process encourages the identification and eliminiation of defects not recognized by the original development team. 
+1. **Flexible usage.** The benefits to using FOSS compel 18F to meet citizen and consumer needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and eliminiation of defects not recognized by the original development team. 
 
-1. **Community involvement.** Publicly available source code enables continuous and broad peer review. Opening the review and testing process to an a larger audience than the development team ensures increased reliability in the software and its security. 
+1. **Community involvement.** Publicly available source code enables continuous and broad peer review. Opening the review and testing process to a wider audience, beyond the development team, ensures increased software reliability and security. 
 
-1. **Cost-Savings.** Being able to modify FOSS enables 18F to respond rapidly to changing missions and markets. Flexible licenses remove the traditional restrictions for who can use the software or how it is used, which will allow 18F to create new products and services to keep pace with industry best practices. This leads to cost-savings for our clients and the American people. Support and maintenance of the source code, as opposed to licensing, provides a real cost advantage where multiple copies of software is required or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F. 
+1. **Cost-Savings.** Being able to modify FOSS enables 18F to respond rapidly to changing missions and markets. Flexible licenses remove the traditional restrictions on whom can use the software or how it is used, which will allow 18F to create new products and services that keep pace with industry best practices. This lowers costs for our clients and the American people. Support and maintenance of the source code, as opposed to licensing, provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F. 
 
-+ In addition, the code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can take advantage of.
++ In addition, the code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can participate in.
 
 <!---
 1. I removed "There are several positive aspects of FOSS that should compel 18F to seek out FOSS when
