@@ -2,7 +2,6 @@
 layout: page
 title: CFPB Source Code Policy
 permalink: /
-assetpath: ../
 ---
 
 1. Use of external open source software
