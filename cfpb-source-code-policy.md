@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: CFPB Source Code Policy
 permalink: /
 assetpath: ../
