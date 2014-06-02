@@ -36,9 +36,18 @@ The public can use our code as the basis of wholly proprietary and commercial sy
 
 ## Using Code Under a License
 
-As previously mentioned, most work generated at 18F falls within the public domain. However, certain projects will require the usage of licensed open source software not created by 18F. Open source licenses make source code available under specific terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When 18F modifies licensed open source code, it is important to understand both the specifics of the open source license in question and how 18F intends to use and redistribute any modified FOSS.
+As previously mentioned, most work generated at 18F falls within the public domain.
 
 For our international colleagues, 18F also permanently waives all copyright and related rights worldwide to code created by 18F or its contractors.
+
+Our [default LICENSE file](LICENSE.md) for projects acknowledges that our work is in the US public domain, and uses [CC0](https://creativecommons.org/publicdomain/zero/1.0/) to waive copyright internationally.
+
+Our [default CONTRIBUTING file](CONTRIBUTING.md) informs contributors that their contributions will be licensed under the same terms.
+
+However, certain projects will require the usage of licensed open source software not created by 18F. Open source licenses make source code available under specific terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When 18F modifies licensed open source code, it is important to understand both the specifics of the open source license in question and how 18F intends to use and redistribute any modified FOSS.
+
+Each project may need to modify or extend the above LICENSE and CONTRIBUTING files as needed for its own circumstances.
+
 
 ## Distribution of Code
 
