@@ -76,7 +76,7 @@ We view this policy as a living document. 18F looks forward to approaching this 
 
 ## Thanks
 
-18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget in their work in blazing the path for the use of FOSS in the Federal Government.
+18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget for their work in blazing the path for the use of FOSS in the Federal Government.
 
 ## Get in touch
 
