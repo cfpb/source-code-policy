@@ -73,11 +73,9 @@ There are certain instances where 18F will not meet any or all of our positions 
 
 * The public release of the item is restricted by other law or regulation, such as the Export Administration Regulations or the International Traffic in Arms Regulation.
 
-* If open-sourcing the code or opening its development will result in privacy violations or security vulnerabilities.
+These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest. 
 
-* There is an overwhelming business need to not publish original or modified source code.
-
-These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. If an existing solution cannot be found in the open-source community, 18F may consider other options, including creating an open-source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used, regardless of whether the software is open source.
+If an existing solution cannot be found in the open-source community, 18F may consider other options, including creating an open-source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used, regardless of whether the software is open source.
 
 ## Future Changes
 
