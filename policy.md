@@ -22,7 +22,7 @@ Using FOSS allows for product customization, advances interoperability between t
 
 1. **Reusability.** The code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at 18F.
 
-## Maximizing Community Involvement
+## Maximizing Community Involvement and Reuse
 
 The open source community requires active involvement from its members for code to be discussed and modified in a robust manner. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F. Code written entirely by 18F staff, and by contractors who are developing software on behalf of 18F, are within the public domain. Because of this, 18F encourages contributions to its open-source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
 
