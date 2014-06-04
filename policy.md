@@ -1,4 +1,4 @@
-# Making 18F Open Source by Default
+# 18F: An Open Source Team
 
 **Note:** This is currently a **draft**, **pre-decisional** document. It is **not finalized** for 18F.
 
