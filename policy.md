@@ -8,7 +8,7 @@ The default position of 18F when working on new projects is to:
 
 1. Use Free and Open Source Software (FOSS) <1><sup><a href="#fn1" id="ref1">1</a></sup> in our projects and contribute back to the open source community.
 2. Create an environment where any project can be developed in the open.
-3. Publish all source code created or modified by 18F publicly.
+3. Publish all source code created or modified by 18F and its contractors publicly.
 
 ## Benefits
 
