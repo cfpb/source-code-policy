@@ -6,7 +6,7 @@
 where.
 The default position of 18F when working on new projects is to:
 
-1. Use Free and Open Source Software (FOSS) <1><a href="#fn1" id="ref1">1</a></sup> in our projects and to contribute back to the open source community;
+1. Use Free and Open Source Software (FOSS) <1><sup><a href="#fn1" id="ref1">1</a></sup> in our projects and to contribute back to the open source community;
 2. Create an environment where any project can be developed in the open; and
 3. Publish all source code created or modified by 18F publicly.
 
