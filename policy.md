@@ -3,7 +3,7 @@
 **Note:** This is currently a **draft**, **pre-decisional** document. It is **not finalized** for 18F.
 
 [18F](https://18f.gsa.gov), a digital services delivery team within the [General Services Administration](http://gsa.gov), develops in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. government.
-where.
+
 The default position of 18F when working on new projects is to:
 
 1. Use Free and Open Source Software (FOSS) <1><sup><a href="#fn1" id="ref1">1</a></sup> in our projects and to contribute back to the open source community;
