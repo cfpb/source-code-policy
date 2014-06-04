@@ -67,7 +67,7 @@ Numerous agencies, most prominently the [Department of Defense (DoD)](http://en.
 
 ## Exceptions
 
-Code shall not be released or developed in the open if any of the following conditions are met:
+The only conditions where code shall not be released or developed in the open are:
 
 * The U.S. Government does not have the rights to reproduce and release the item.
 
