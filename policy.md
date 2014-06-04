@@ -12,7 +12,7 @@ The default position of 18F when working on new projects is to:
 
 ## Benefits
 
-Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality to the final product. Other benefits include:
+Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality of the final product. Other benefits include:
 
 1. **Flexible usage.** The benefits to using FOSS compel 18F to meet citizen and business needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
 
