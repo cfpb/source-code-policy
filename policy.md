@@ -36,7 +36,7 @@ The public can use our code as the basis of wholly proprietary and commercial sy
 
 ## Using Code Under a License
 
-As previously mentioned, most work generated at 18F falls within the public domain.
+As previously mentioned, most work generated at 18F falls within the U.S. public domain.
 
 For our international colleagues, 18F also permanently waives all copyright and related rights worldwide to code created by 18F or its contractors.
 
