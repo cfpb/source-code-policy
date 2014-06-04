@@ -34,7 +34,7 @@ This changes when our code repositories include code that was not created by 18F
 
 The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is being used in a new system are always greatly appreciated.
 
-## Using Code Under a License
+## Open Source Licenses
 
 As previously mentioned, most work generated at 18F falls within the U.S. public domain.
 
