@@ -4,7 +4,7 @@
 
 [18F](https://18f.gsa.gov), a digital services delivery team within the [General Services Administration](http://gsa.gov), develops in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
 
-The default position of 18F when developing new projects is to:
+The default position of 18F when working on new projects is to:
 
 1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 2. Create an environment where any project can be developed in the open.
@@ -76,14 +76,10 @@ These decisions will be made as needed by the 18F DevOps team, which will lead a
 
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
-## Future Changes
-
-We view this policy as a living document. 18F looks forward to approaching this document in the future and making changes, if necessary.
-
 ## Thanks
 
 18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget for their work in blazing the path for the use of FOSS in the Federal Government.
 
-## Get in touch
+## Future Changes
 
-Leave an issue, or make a pull request to this repository. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
+This policy is a living document. 18F expects to make changes to this policy in the future, and we welcome [issues](https://github.com/18f/open-source-policy/issues) and pull requests. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
