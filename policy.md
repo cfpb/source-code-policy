@@ -24,7 +24,7 @@ Using FOSS allows for product customization, advances interoperability between t
 
 ## Maximizing Community Involvement and Reuse
 
-The open source community requires active involvement from its members for code to be discussed and modified in a robust manner. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F. Code written entirely by 18F staff, and by contractors who are developing software on behalf of 18F, are within the public domain. Because of this, 18F encourages contributions to its open-source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
+Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F. Code written entirely by 18F staff, and by contractors who are developing software on behalf of 18F, are within the public domain. Because of this, 18F encourages contributions to its open-source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
 
 Because all of 18F’s work is intended to be released for public use, forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
