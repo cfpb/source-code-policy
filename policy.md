@@ -32,7 +32,7 @@ This changes when our code repositories include code that was not created by 18F
 
   [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
-The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is being used in a new system are always greatly appreciated.
+The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
 
 ## Open Source Licenses
 
@@ -44,10 +44,9 @@ Our [default LICENSE file](LICENSE.md) for projects acknowledges that our work i
 
 Our [default CONTRIBUTING file](CONTRIBUTING.md) informs contributors that their contributions will be licensed under the same terms.
 
-However, certain projects will require the usage of licensed open source software not created by 18F. Open source licenses make source code available under specific terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When 18F modifies licensed open source code, it is important to understand both the specifics of the open source license in question and how 18F intends to use and redistribute any modified FOSS.
+However, certain projects will require the usage of licensed open source software not created by 18F. Some open source licenses make source code available under different terms and conditions. These terms and conditions specify how the code may be used, modified, or shared. When users modify 18F code, they should review and understand the terms of the open source license in question.
 
 Each project may need to modify or extend the above LICENSE and CONTRIBUTING files as needed for its own circumstances.
-
 
 ## Distribution of Code
 
