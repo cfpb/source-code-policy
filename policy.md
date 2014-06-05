@@ -6,7 +6,7 @@
 
 The default position of 18F when working on new projects is to:
 
-1. Use Free and Open Source Software (FOSS) <1><sup><a href="#fn1" id="ref1">1</a></sup> in our projects and contribute back to the open source community.
+1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 2. Create an environment where any project can be developed in the open.
 3. Publish all source code created or modified by 18F and its contractors publicly.
 
@@ -88,7 +88,3 @@ We view this policy as a living document. 18F looks forward to approaching this 
 ## Get in touch
 
 Leave an issue, or make a pull request to this repository. To contact us privately, email <a href="mailto:18F@gsa.gov">18F@gsa.gov</a>.
-
-<hr></hr>
-
-<1 id="fn1">1. [FOSS is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code.]<a href="#ref1" title="Jump back to footnote 1 in the text.">↩</a></sup>
