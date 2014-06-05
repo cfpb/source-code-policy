@@ -74,7 +74,7 @@ The only conditions where code shall not be released or developed in the open ar
 
 These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest. 
 
-If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used, regardless of whether the software is open source.
+If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
 ## Future Changes
 
