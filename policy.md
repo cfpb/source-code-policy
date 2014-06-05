@@ -28,9 +28,9 @@ The open source community requires active involvement from its members for code 
 
 Because all of 18F’s work is intended to be released for public use, forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [1] and must be released under the terms of the original open source license.
+This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under the terms of the original open source license.
 
-  [1]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
+  [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
 The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is being used in a new system are always greatly appreciated.
 
@@ -57,11 +57,11 @@ In addition, many open source licenses permit the user to modify OSS for interna
 
 ## Legal and Policy
 
-Agencies have been encouraged to acquire the best information technology service to meet their needs. The Office of Management and Budget (OMB) has released memoranda indicating that policies surrounding procurement of new information technology are ["intentionally technology and vendor neutral,"][1] and has [stated][2] that open source software can and should be considered when procuring new services. In nearly every case, FOSS meets the definition of ["commercial computer software"][3] and agencies are [required][2] to include open source software in their market research.
+Agencies have been encouraged to acquire the best information technology service to meet their needs. The Office of Management and Budget (OMB) has released memoranda indicating that policies surrounding procurement of new information technology are ["intentionally technology and vendor neutral,"][5] and has [stated][6] that open source software can and should be considered when procuring new services. In nearly every case, FOSS meets the definition of ["commercial computer software"][7] and agencies are [required][6] to include open source software in their market research.
 
-  [1]: http://www.whitehouse.gov/omb/memoranda_fy04_m04-16 "OMB M-04-16"
-  [2]: http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf "OMB Memo on Tech Neutrality"
-  [3]: http://www.gpo.gov/fdsys/pkg/CFR-2011-title48-vol1/pdf/CFR-2011-title48-vol1-sec27-405-3.pdf "Commercial computer software"
+  [5]: http://www.whitehouse.gov/omb/memoranda_fy04_m04-16 "OMB M-04-16"
+  [6]: http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf "OMB Memo on Tech Neutrality"
+  [7]: http://www.gpo.gov/fdsys/pkg/CFR-2011-title48-vol1/pdf/CFR-2011-title48-vol1-sec27-405-3.pdf "Commercial computer software"
 
 Numerous agencies, most prominently the [Department of Defense (DoD)](http://en.wikipedia.org/wiki/Use_of_Free_and_Open_Source_Software_(FOSS)_in_the_U.S._Department_of_Defense), regularly use FOSS to meet their own needs and have updated their internal policies to take part in the communities built around FOSS.
 
