@@ -8,7 +8,7 @@ The default position of 18F when developing new projects is to:
 
 1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 2. Create an environment where any project can be developed in the open.
-3. Publish all source code created or modified by 18F and its contractors publicly.
+3. Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
 ## Benefits
 
@@ -24,9 +24,13 @@ Using FOSS allows for product customization, advances interoperability between t
 
 ## Maximizing Community Involvement and Reuse
 
-Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F. Code written entirely by 18F staff, and by contractors who are developing software on behalf of 18F, are within the public domain. Because of this, 18F encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
+Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F.
 
-Because all of 18F’s work is intended to be released for public use, forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
+Code written entirely by 18F staff will be dedicated to the public domain. In addition, any contracts 18F enters into, where others will develop software on 18F's behalf, will ensure that all results are dedicated to the public domain. In general, all discussion in this document about the licensing of work of 18F's contractors means that 18F will ensure that their contracts guarantee those terms.
+
+18F encourages contributions to its open source projects, whether it be code, commentary, bug reports, feature requests, or overall strategic direction.
+
+Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
 This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under the terms of the original open source license.
 
@@ -54,16 +58,6 @@ There is a misconception that FOSS that is distributed to the public should not 
 
 In addition, many open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public. However, if the user chooses to distribute the modified OSS outside the user's organization, then it is subject to whatever license it carries.
 
-## Legal and Policy
-
-Agencies have been encouraged to acquire the best information technology service to meet their needs. The Office of Management and Budget (OMB) has released memoranda indicating that policies surrounding procurement of new information technology are ["intentionally technology and vendor neutral,"][5] and has [stated][6] that open source software can and should be considered when procuring new services. In nearly every case, FOSS meets the definition of ["commercial computer software"][7] and agencies are [required][6] to include open source software in their market research.
-
-  [5]: http://www.whitehouse.gov/omb/memoranda_fy04_m04-16 "OMB M-04-16"
-  [6]: http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf "OMB Memo on Tech Neutrality"
-  [7]: http://www.gpo.gov/fdsys/pkg/CFR-2011-title48-vol1/pdf/CFR-2011-title48-vol1-sec27-405-3.pdf "Commercial computer software"
-
-Numerous agencies&mdash;most prominently the [Department of Defense (DoD)](http://en.wikipedia.org/wiki/Use_of_Free_and_Open_Source_Software_(FOSS)_in_the_U.S._Department_of_Defense)&mdash;regularly use FOSS to meet their own needs and have updated their internal policies to take part in the communities built around FOSS.
-
 ## Exceptions
 
 The only conditions where code shall not be released or developed in the open are:
@@ -72,7 +66,7 @@ The only conditions where code shall not be released or developed in the open ar
 
 * The public release of the item is restricted by other law or regulation, such as the Export Administration Regulations or the International Traffic in Arms Regulation.
 
-These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest. 
+These decisions will be made as needed by the 18F DevOps team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
 
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
