@@ -58,16 +58,6 @@ There is a misconception that FOSS that is distributed to the public should not 
 
 In addition, many open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public. However, if the user chooses to distribute the modified OSS outside the user's organization, then it is subject to whatever license it carries.
 
-## Legal and Policy
-
-Agencies have been encouraged to acquire the best information technology service to meet their needs. The Office of Management and Budget (OMB) has released memoranda indicating that policies surrounding procurement of new information technology are ["intentionally technology and vendor neutral,"][5] and has [stated][6] that open source software can and should be considered when procuring new services. In nearly every case, FOSS meets the definition of ["commercial computer software"][7] and agencies are [required][6] to include open source software in their market research.
-
-  [5]: http://www.whitehouse.gov/omb/memoranda_fy04_m04-16 "OMB M-04-16"
-  [6]: http://www.whitehouse.gov/sites/default/files/omb/assets/egov_docs/memotociostechnologyneutrality.pdf "OMB Memo on Tech Neutrality"
-  [7]: http://www.gpo.gov/fdsys/pkg/CFR-2011-title48-vol1/pdf/CFR-2011-title48-vol1-sec27-405-3.pdf "Commercial computer software"
-
-Numerous agencies&mdash;most prominently the [Department of Defense (DoD)](http://en.wikipedia.org/wiki/Use_of_Free_and_Open_Source_Software_(FOSS)_in_the_U.S._Department_of_Defense)&mdash;regularly use FOSS to meet their own needs and have updated their internal policies to take part in the communities built around FOSS.
-
 ## Exceptions
 
 The only conditions where code shall not be released or developed in the open are:
