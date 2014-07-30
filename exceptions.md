@@ -14,7 +14,7 @@ Right now, there are two categories of "compelling interests":
 
 **One-off per-project exceptions**
 
-[...none...?]
+[...none? still figuring this out...]
 
 **Before the ink is dry**
 
