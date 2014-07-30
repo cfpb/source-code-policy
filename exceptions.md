@@ -18,6 +18,6 @@ Right now, there are two categories of "compelling interests":
 
 **Before the ink is dry**
 
-One temporary and narrow (but common) exception in 18F's line of work is when our team begins work on code before formally signing and completing an "Inter-agency agreement" (IAA) with our client.
+One temporary and narrow (but common) exception in 18F's line of work is when our team begins work on code before formally signing and completing an "inter-agency agreement" (IAA) with our client.
 
 Generally speaking, until an IAA is signed, the project has not formally begun, and we are not allowed to discuss a project publicly. A code repository in this status will remain private until the IAA is signed.
