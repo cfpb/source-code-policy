@@ -38,9 +38,11 @@ alias insertcontrib="wget https://raw.githubusercontent.com/18F/open-source-poli
 alias 18finit="insertlicense && insertcontrib"
 ```
 
-Now it is super easy to start a new project up with one simple command line:
+Now it is super easy to start a new project up with one simple command:
+
 ```
 $ 18finit
+
 --2014-08-14 13:40:20--  https://raw.githubusercontent.com/18F/open-source-policy/master/LICENSE.md
 Resolving raw.githubusercontent.com... 23.235.46.133
 Connecting to raw.githubusercontent.com|23.235.46.133|:443... connected.
@@ -63,3 +65,5 @@ Saving to: 'CONTRIBUTING.md'
 
 2014-08-14 13:40:20 (17.9 MB/s) - 'CONTRIBUTING.md' saved [432/432]
 ```
+
+It's still recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/exceptions/README.md#public-domain) that sums up what's going on.
