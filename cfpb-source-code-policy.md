@@ -5,14 +5,12 @@ permalink: /
 ---
 
 1. Use of external open source software
-
    1. "Open Source Software" (OSS) is software that allows its recipients to modify and redistribute
       the source code; as such, "open source" is a copyright and distribution framework and makes no
       implications regarding technical support or indemnification. In almost all cases, OSS meets
       the definition of "commercial computer software" and shall be given appropriate statutory
       preference in accordance with 41 USC 264B (reference (b)) (see also FAR 2.101(b), 12_1.html
       12.000, 12.101 (reference (c))).
-
    2. Executive agencies, including CFPB, are required to conduct market research when preparing for
       the procurement of products or services by 41 USC Sec. 253a (reference (e)) (see also FAR
       10.001. Market research for software should include OSS.
@@ -47,12 +45,10 @@ permalink: /
       2. While these considerations may be relevant, they may not be the overriding drivers to
          any decision about software. Ultimately, the software that best meets the needs and
          mission of CFPB should be used, regardless of whether the software is open source.
-
    3. The use of any software without appropriate maintenance and support presents an information
       assurance risk. Before approving the use of software (including OSS), system/program managers,
       and ultimately Designated Approving Authorities (DAAs), must ensure that the plan for software
       support (e.g., commercial or Government program office support) is adequate for mission need.
-
    4. It is important to understand both the specifics of the open source license in question and
       how CFPB intends to use and redistribute any Bureau-modified OSS. There is a misconception
       that the Government is always obligated to distribute the source code of any modified OSS to
@@ -63,24 +59,19 @@ permalink: /
       Government user distributes the code outside the Government), then some OSS licenses (such as
       the GNU General Public License) do require distribution of the corresponding source code to
       the recipient of the software.
-
    5. When contracting developer services, CFPB will encourage vendors to use open source technology
       wherever possible, for the reasons cited in a)i-vii above.
-
    6. In order to facilitate the auditing of CFPB's software catalog, the Technology & Innovation
       office will use a source code analysis tool to index its open source assets and their
       respective licensing obligations.
 
 2. Redistribution of CFPB Code
-
    1. Software source code written entirely by CFPB staff, and by contractors who are developing
       software on behalf of CFPB, is by default a public domain work.
-
    2. Software source code previously released under an open source license and then modified by
       CFPB staff is considered a "joint work" (see 17 USC § 101); it is partially copyrighted,
       partially public domain, and as a whole is protected by the copyrights of the non-government
       authors and must be released according to the terms of the original open-source license.
-
    3. All source code as defined in 2)a and 2)b above must be catalogued and shared with the general
       public via a highly visible, easily accessible online source code community that facilitates
       the code’s reuse. Source code shall not be released if any of the following conditions are
