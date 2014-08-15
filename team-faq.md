@@ -12,6 +12,12 @@ One common, temporary exception to this is if the work is for a *potential* clie
 
 18F is an open source team, and we default to open.
 
+**But I haven't written any documentation yet!**
+
+At 18F, open is more important than documented.
+
+Documentation is of course highly encouraged, both early on and throughout a project.
+
 **What specific work are you making me do?**
 
 When you create a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of your README](README.md#public-domain).
