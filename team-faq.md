@@ -14,9 +14,7 @@ One common, temporary exception to this is if the work is for a *potential* clie
 
 **But I haven't written any documentation yet!**
 
-At 18F, open is more important than documented.
-
-Documentation is of course highly encouraged, both early on and throughout a project.
+Documentation is a critical component of any open source project, but it's also something that everyone occasionally neglects. It tends to be easier to document early on and throughout a project, but if that isn't possible, that shouldn't be a reason to not release it. You should, at minimum, include a README file with a one sentence description of what the project does, and note that documentation is forthcoming.
 
 **What specific work are you making me do?**
 
