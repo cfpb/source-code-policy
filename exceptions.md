@@ -10,7 +10,7 @@ Below is where we'll document exceptions from class number 3.
 
 #### Exceptions
 
-Right now, there are two categories of "compelling interests":
+Right now, there are three categories of "compelling interests":
 
 **One-off per-project exceptions**
 
@@ -21,3 +21,7 @@ Right now, there are two categories of "compelling interests":
 One temporary and narrow (but common) exception in 18F's line of work is when our team begins work on code before formally signing and completing an "inter-agency agreement" (IAA) with our client.
 
 Generally speaking, until an IAA is signed, the project has not formally begun, and we are not allowed to discuss a project publicly. A code repository in this status will remain private until the IAA is signed.
+
+**Short Time Period**
+
+At times, there may be small cases where a project needs to start in a private environment and later become public. This could be work that a team member needs to share with another team member to ensure the code does not include security vulnerabilities, clear through agency processes, or "whiteboard" out an idea that they want to propose in a small group. In these cases, 18F has a blanket exemption allowing private repositories to exist for no more than 10 business days before being made public. Repositories that are kept private beyond this time will need a formal exemption documented and made available.
