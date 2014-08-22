@@ -30,7 +30,7 @@ Code written entirely by 18F staff will be dedicated to the public domain. In ad
 
 Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under the terms of the original open source license.
+This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under terms permitted by the original open source license.
 
   [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
@@ -54,7 +54,7 @@ Each project may need to modify or extend the above LICENSE and CONTRIBUTING fil
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
-In addition, many open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public. However, if the user chooses to distribute the modified OSS outside the user's organization, then it is subject to whatever license it carries.
+In addition, while open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified OSS outside the user's organization, then the code is subject to whatever license it carries.
 
 ## Exceptions
 
