@@ -4,6 +4,11 @@ This repository contains the official [Open Source Policy](policy.md) of [18F](h
 
 **[Read 18F's Open Source Policy.](policy.md)**
 
+### 18F Team Guidance
+
+For 18F team members, we have guidance on how to put this policy into practice, and when it's appropriate to delay or withhold the release of source code.
+
+**[18F's open source practices.](practices.md)**
 
 ### Credits
 
