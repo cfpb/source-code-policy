@@ -46,7 +46,7 @@ There are some times when we may temporarily delay open sourcing our work:
 
 * **Brief experimentation**. This could be work that a team member wants to share with another team member before clearing through agency processes, or to "whiteboard" out an idea that they want to propose in a small group. This shouldn't last more than 10 business days, after which the code should be made public or deleted.
 
-* **Confidentiality agreements.** At times, we may undertake projects subject to temporary confidentiality agreements, embargos, or other holds on disclosure. Related content, including code, may be private until a specified time, arranged at the beginning of the work.
+* **Confidentiality agreements.** At times, we may undertake projects subject to temporary confidentiality agreements, embargos, or other holds on disclosure. In this case, the branding, design, and other identifying information may be private until a specified time, arranged at the beginning of the work.
 
 Other situations might arise that demand a delay in publishing source code &mdash; an 18F team member should consult with the rest of the team if they believe their situation merits a delay.
 
