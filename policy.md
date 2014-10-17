@@ -5,7 +5,7 @@
 The default position of 18F when developing new projects is to:
 
 1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
-2. Develop our work in the open, as early and as completely as possible.
+2. Develop our work in the open.
 3. Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
 ## Benefits
@@ -58,7 +58,7 @@ In addition, many open source licenses permit the user to modify OSS for interna
 
 ## Exceptions
 
-The only conditions where code shall not be released in the open are:
+The only conditions where code shall not be developed and released in the open are:
 
 * The U.S. Government does not have the rights to reproduce and release the item.
 

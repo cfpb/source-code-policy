@@ -3,8 +3,12 @@
 This document is meant to give specific team guidance on putting our [open source policy](policy.md) into practice.
 
 * 18F releases software into the [international public domain](#public-domain).
-* 18F develops software [in the open](#working-in-public), as early and as completely as we can.
-* Whether developed openly or not, 18F has committed to [releasing the source code](#source-code-release) for our work, with only [very narrow exceptions](#exceptions).
+* We [develop our software in the open](#working-in-public).
+* There are [narrow, documented exceptions](#exceptions) where source code may be delayed or withheld.
+
+18F team members should work with the strong presumption that all of their code will be public, throughout and after development.
+
+Before deciding to delay or withhold the release of source code, you should consult with the team and be prepared to publicly document this exception.
 
 ### Public domain
 
@@ -32,34 +36,34 @@ You can then initialize a new 18F repository's license information with:
 18f-init
 ```
 
-It's still recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/exceptions/README.md#public-domain) that sums up what's going on.
+It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/exceptions/README.md#public-domain) that sums up what's going on.
+
 
 ### Working in public
 
-18F believes in [working in public](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/) to the greatest extent we can. It creates a healthier working environment, a more collaborative process, and just better software.
+18F believes in [working in public](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/). It creates a healthier working environment, a more collaborative process, and just better software.
 
-All 18F team members are expected to make new source code repositories public from creation.
+All 18F team members are expected to make new source code repositories public from the time of creation.
 
-There are some times when we may temporarily delay open sourcing our work:
 
-* **Before the ink is dry**. It's common for 18F to begin work on code before formally signing and completing an "inter-agency agreement" (IAA) with our client. Generally speaking, until an IAA is signed, the project has not formally begun, and we are not able to discuss a project publicly.
+### Delays and exceptions
 
-* **Brief experimentation**. This could be work that a team member wants to share with another team member before clearing through agency processes, or to "whiteboard" out an idea that they want to propose in a small group. This shouldn't last more than 10 business days, after which the code should be made public or deleted.
-
-* **Confidentiality agreements.** At times, we may undertake projects subject to temporary confidentiality agreements, embargos, or other holds on disclosure. In this case, the branding, design, and other identifying information may be private until a specified time, arranged at the beginning of the work.
-
-Other situations might arise that demand a delay in publishing source code &mdash; an 18F team member should consult with the rest of the team if they believe their situation merits a delay.
-
-General nervousness and embarrassment, on 18F's part or on the part of an agency partner, are not good enough reasons to keep source code closed through the development process.
-
-### Source Code Release
-
-18F's Open Source Policy lists [3 classes of exceptions](https://github.com/18F/open-source-policy/blob/master/policy.md#exceptions) under which we will not ever release source code:
+Our policy lists [3 classes of exceptions](https://github.com/18F/open-source-policy/blob/master/policy.md#exceptions) for which we will not release source code:
 
 1. We don't have the rights to release the code.
 2. The code's public release is restricted by a specific law or regulation (for example, arms control).
 3. Some other "compelling interest" that is "rare [and] documented publicly", listed below.
 
+There are a couple of categories of "compelling interests" where we may _temporarily_ delay open sourcing our work:
+
+* **Before the ink is dry**. It's common for 18F to begin work on code before formally signing and completing an "inter-agency agreement" (IAA) with our partner. Generally speaking, until an IAA is signed the project has not formally begun, and we are not able to discuss a project publicly.
+
+* **Brief experimentation**. This could be work that a team member wants to share with another team member before clearing through partner agency processes, or to "whiteboard" out an idea that they want to propose in a small group. This shouldn't last more than 10 business days, by which time the code should be made public or removed from 18F's version control systems.
+
 #### Exceptions
 
-18F currently has **no projects** for which we will not release the source code.
+18F currently has **no projects** for which we will not ever release the source code.
+
+18F has one project where source code will be released at a later time:
+
+* [US Citizenship & Immigration Services](http://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
