@@ -36,7 +36,7 @@ You can then initialize a new 18F repository's license information with:
 18f-init
 ```
 
-It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/exceptions/README.md#public-domain) that sums up what's going on.
+It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
 
 
 ### Working in public
