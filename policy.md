@@ -5,7 +5,7 @@
 The default position of 18F when developing new projects is to:
 
 1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
-2. Create an environment where any project can be developed in the open.
+2. Develop our work in the open.
 3. Publish publicly all source code created or modified by 18F, whether developed in-house by government staff or through contracts negotiated by 18F.
 
 ## Benefits
@@ -22,7 +22,7 @@ Using FOSS allows for product customization, advances interoperability between t
 
 ## Maximizing Community Involvement and Reuse
 
-Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize, whether they are maintained or operated by 18F.
+Active involvement from the open source community is integral to the success of open source code. 18F will be an active contributor to FOSS projects that it or its clients utilize.
 
 Code written entirely by 18F staff will be dedicated to the public domain. In addition, any contracts 18F enters into, where others will develop software on 18F's behalf, will ensure that all results are dedicated to the public domain. In general, all discussion in this document about the licensing of work of 18F's contractors means that 18F will ensure that their contracts guarantee those terms.
 
@@ -30,7 +30,7 @@ Code written entirely by 18F staff will be dedicated to the public domain. In ad
 
 Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under the terms of the original open source license.
+This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under terms permitted by the original open source license.
 
   [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
@@ -54,11 +54,11 @@ Each project may need to modify or extend the above LICENSE and CONTRIBUTING fil
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
-In addition, many open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public. However, if the user chooses to distribute the modified OSS outside the user's organization, then it is subject to whatever license it carries.
+In addition, while open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified OSS outside the user's organization, then the code is subject to whatever license it carries.
 
 ## Exceptions
 
-The only conditions where code shall not be released or developed in the open are:
+The only conditions where code shall not be developed and released in the open are:
 
 * The U.S. Government does not have the rights to reproduce and release the item.
 
