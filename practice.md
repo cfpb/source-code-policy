@@ -19,7 +19,7 @@ There are potentially other cases where copyright is involved: where contractors
 
 ### Contributing back to outside projects
 
-18F employees should feel free to contribute back any modifications or improvements they make to non-governmental open source software projects in the course of their work.
+18F employees are encouraged to contribute back any modifications or improvements they make to open source software projects outside 18F -- whether government or non-government -- in the course of their work.
 
 In terms of licensing: as works of the government, employee contributions are public domain in the United States, regardless of the outside project's contribution agreement. This does not change the overall license status of the outside project.
 
