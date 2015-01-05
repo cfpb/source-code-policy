@@ -52,7 +52,7 @@ It's also recommended to copy and paste [this paragraph for the end of your READ
 
 ### Accepting contributions from the public
 
-Any 18F project can accept open source contributions from the public. Contributors must agree to release their contributions into the international public domain.
+Any 18F project can (and should!) accept open source contributions from the public. Contributors must agree to release their contributions into the international public domain.
 
 Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md`](CONTRIBUTING.md) file from this repo into new project repos, and copying the ["Public domain" section of this repo's README](README.md#public-domain) into the new project's README.
 
