@@ -27,6 +27,7 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 > Yes. If the improvements are written by US government employees in the course of their employment, then the improvements are in the public domain. However, the improved version, as a whole, is still covered by the GNU GPL. There is no problem in this situation.
 
+
 #### How to license 18F repos
 
 When you create a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of your README](README.md#public-domain).
@@ -49,6 +50,13 @@ You can then initialize a new 18F repository's license information with:
 
 It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
 
+### Accepting contributions from the public
+
+Any 18F project can accept open source contributions from the public. Contributors must agree to release their contributions into the international public domain.
+
+Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md`](CONTRIBUTING.md) file from this repo into new project repos, and copying the ["Public domain" section of this repo's README](README.md#public-domain) into the new project's README.
+
+Projects can **encourage public contributions** by creating open issues where public help would be especially welcome. A useful convention is to label those issues with `help wanted`. This helps potential contributors scan issues quickly, and helps [services](http://www.codeforamerica.org/geeks/civicissues) aggregate volunteer opportunities.
 
 ### Working in public
 
