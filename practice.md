@@ -61,6 +61,8 @@ Projects can **encourage public contributions** by:
 * Creating open issues where public help would be especially welcome.
 * Labeling those issues with `help wanted` so people can scan issues quickly and [services](http://www.codeforamerica.org/geeks/civicissues) can aggregate volunteer opportunities.
 * Asking for it, in the README and in other public writing about the project.
+* Providing solid documentation for any project setup process.
+* Being super nice when communicating with volunteers.
 
 As [described above](#public-domain), 18F projects are dedicated to the international public domain wherever possible. In this situation, contributors must agree to release their contributions into the international public domain. Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md`](CONTRIBUTING.md) file from this repo into new project repos, and copying the ["Public domain" section of this repo's README](README.md#public-domain) into the new project's README.
 
