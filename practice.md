@@ -15,7 +15,9 @@ Before deciding to delay or withhold the release of source code, you should cons
 
 [By law](http://www.law.cornell.edu/uscode/text/17/105), works of the United States government are not copyrightable in the US, and so are public domain. But by default, US government works **are** copyrightable internationally, and so 18F intentionally waives this copyright abroad using [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
 
-There are potentially other cases where copyright is involved: where contractors produce the work, or where work was otherwise originally performed not in the capacity of a US government employee. To the extent 18F has the rights to do so, 18F will normalize the copyright status of its work product under CC0.
+There are potentially other cases where copyright is involved: where contractors produce the work, or where work was otherwise originally performed not in the capacity of a US government employee.
+
+To the extent 18F has the rights to do so, 18F will normalize the copyright status of its work product under CC0.
 
 ### Contributing back to outside projects
 
@@ -26,6 +28,7 @@ In terms of licensing: as works of the government, employee contributions are pu
 As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html#GPLUSGovAdd) about government-contributed improvements to GPL software:
 
 > Yes. If the improvements are written by US government employees in the course of their employment, then the improvements are in the public domain. However, the improved version, as a whole, is still covered by the GNU GPL. There is no problem in this situation.
+
 
 #### How to license 18F repos
 
@@ -49,6 +52,21 @@ You can then initialize a new 18F repository's license information with:
 
 It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
 
+### Accepting contributions from the public
+
+Any 18F project can (and should!) accept open source contributions from the public.
+
+Projects can **encourage public contributions** by:
+
+* Creating open issues where public help would be especially welcome.
+* Labeling those issues with `help wanted` so people can scan issues quickly and [services](http://www.codeforamerica.org/geeks/civicissues) can aggregate volunteer opportunities.
+* Asking for it, in the README and in other public writing about the project.
+* Providing solid documentation for any project setup process.
+* Being super nice when communicating with volunteers.
+
+As [described above](#public-domain), 18F projects are dedicated to the international public domain wherever possible. In this situation, contributors must agree to release their contributions into the international public domain. Projects can inform contributors of this agreement by copying the [`CONTRIBUTING.md`](CONTRIBUTING.md) file from this repo into new project repos, and copying the ["Public domain" section of this repo's README](README.md#public-domain) into the new project's README.
+
+When an 18F project has a non-standard license status (e.g. it's a fork of a previously licensed project, or is a module/plugin for a GPL project), then that project needs to figure out an appropriate contributing agreement.
 
 ### Working in public
 
