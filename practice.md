@@ -9,7 +9,7 @@ This document is meant to give specific team guidance on putting our [open sourc
 
 18F team members should work with the strong presumption that all of their code will be public, throughout and after development.
 
-Before deciding to delay or withhold the release of source code, you should consult with the team and be prepared to publicly document this exception.
+Before deciding to delay or withhold the release of source code, consult with the team and be prepared to publicly document this exception.
 
 ### Public domain
 
@@ -32,7 +32,7 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 #### How to license 18F repos
 
-When you create a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of your README](README.md#public-domain).
+When creating a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of its README](README.md#public-domain).
 
 The preceding links are to our standard boilerplate for each of those, so you can just copy and paste them. In some cases, you may need to customize them for your use -- for example, if you've forked a project that originated from outside the government.
 
@@ -73,6 +73,25 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 18F believes in [working in public](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/). It creates a healthier working environment, a more collaborative process, and just better software.
 
 All 18F team members are expected to make new source code repositories public from the time of creation.
+
+### Managing 18F resources
+
+18F intends to produce great software for the American people. That means not just rushing through projects to get them working as fast as possible, but managing technical debt with an eye towards usability and reusability.
+
+If a refactoring or feature makes the tool easier for 18F to use in its work, and the teammate doing it is otherwise meeting their duties, then that's time well spent for 18F and the taxpayer.
+
+Open source projects can &mdash; and hopefully do! &mdash; get use and uptake from outside 18F. It's also okay for individual teammates to create projects they intend to use both at 18F and in their personal capacity.
+
+Teammates do not need permission to start new open source projects in the 18F GitHub organization. However, generally speaking, these projects should have some work applicability.
+
+When creating new open source projects:
+
+* If you're creating a repo because it's primarily for your 18F work, and the work you perform in it is primarily to benefit 18F, start the repo's life in the 18F organization. It's okay if you also think it'll be helpful in personal work.
+* If you're creating a repo that isn't primarily for 18F work, but you think will likely see use at 18F, start it in your personal account. If you don't have strong feelings or concerns about ownership, consider releasing the project under CC0 to save yourself even having to ever think about it.
+
+As people open issues and request features (no matter whether the repo is in your account or 18F's), continue to exercise professional judgment about how to spend 18F time.
+
+If you think something will benefit 18F and is worth the time, then that's valuable 18F work. If it won't benefit 18F but makes the library better for other uses, that may best be done with personal time.
 
 
 ### Delays and exceptions
