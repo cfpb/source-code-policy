@@ -76,7 +76,7 @@ All 18F team members are expected to make new source code repositories public fr
 
 ### Managing 18F resources
 
-18F intends to produce great software for the American people. That means not just rushing through projects to get them working as fast as possible, but managing technical debt with an eye towards usability and reusability.
+18F intends to produce great software for the American people. That means not just rushing through projects to get them working as fast as possible, but managing [technical debt](https://en.wikipedia.org/wiki/Technical_debt) with an eye towards usability and reusability.
 
 If a refactoring or feature makes the tool easier for 18F to use in its work, and the teammate doing it is otherwise meeting their duties, then that's time well spent for 18F and the taxpayer.
 
