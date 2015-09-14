@@ -39,8 +39,8 @@ The preceding links are to our standard boilerplate for each of those, so you ca
 You may wish to add the following to your `.bashrc` or `.zshrc`:
 
 ```bash
-alias insert-license="wget -q https://raw.githubusercontent.com/18F/open-source-policy/master/LICENSE.md"
-alias insert-contrib="wget -q https://raw.githubusercontent.com/18F/open-source-policy/master/CONTRIBUTING.md"
+alias insert-license="curl -sO https://raw.githubusercontent.com/18F/open-source-policy/master/LICENSE.md"
+alias insert-contrib="curl -sO https://raw.githubusercontent.com/18F/open-source-policy/master/CONTRIBUTING.md"
 alias 18f-init="insert-license && insert-contrib && echo 'Licensed.'"
 ```
 
