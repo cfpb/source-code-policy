@@ -54,7 +54,7 @@ Each project may need to modify or extend the above LICENSE and CONTRIBUTING fil
 
 There is a misconception that FOSS that is distributed to the public should not be integrated or modified for use in sensitive systems. On the contrary, FOSS is often preferred for use in sensitive systems, due in part to its increased auditability. In other words, security in FOSS must be designed never to rely on obscurity in how the code works.
 
-In addition, while open source licenses permit the user to modify OSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified OSS outside the user's organization, then the code is subject to whatever license it carries.
+In addition, while open source licenses permit the user to modify FOSS for internal use without obligating them to distribute source code to the public, when the user chooses to distribute the modified FOSS outside the user's organization, then the code is subject to whatever license it carries.
 
 ## Exceptions
 
