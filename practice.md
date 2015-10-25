@@ -36,7 +36,7 @@ When creating a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTR
 
 The preceding links are to our standard boilerplate for each of those, so you can just copy and paste them. In some cases, you may need to customize them for your use -- for example, if you've forked a project that originated from outside the government.
 
-You may wish to add the following to your `.bashrc` or `.zshrc`:
+You may wish make the following shell aliases
 
 ```bash
 alias insert-license="curl -sO https://raw.githubusercontent.com/18F/open-source-policy/master/LICENSE.md"
@@ -48,6 +48,19 @@ You can then initialize a new 18F repository's license information with:
 
 ```bash
 18f-init
+```
+
+Want to take it even further and create the repo at the same time?
+
+```bash
+alias create-repo="mkdir \!* && cd \!* && git init ."
+alias create-18f-repo="create-repo \!* && 18f-init && git add . && git commit -m 'initial commit'"
+```
+
+Then create a repo and license it with:
+
+```bash
+create-18f-repo new-project-name
 ```
 
 It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
