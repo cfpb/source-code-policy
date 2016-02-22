@@ -32,7 +32,7 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 #### How to license 18F repos
 
-When creating a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add a [paragraph to the end of its README](README.md#public-domain).
+When creating a repo, add a [LICENSE.md](LICENSE.md) and [CONTRIBUTING.md](CONTRIBUTING.md) file, and add/edit the [README.md template](README_TEMPLATE.md).
 
 The preceding links are to our standard boilerplate for each of those, so you can just copy and paste them. In some cases, you may need to customize them for your use -- for example, if you've forked a project that originated from outside the government.
 
@@ -54,7 +54,8 @@ Want to take it even further and create the repo at the same time?
 
 ```bash
 alias create-repo="mkdir \!* && cd \!* && git init ."
-alias create-18f-repo="create-repo \!* && 18f-init && git add . && git commit -m 'initial commit'"
+alias create-readme="curl -s https://raw.githubusercontent.com/18F/open-source-policy/master/README_TEMPLATE.md -o README.md"
+alias create-18f-repo="create-repo \!* && 18f-init && create-readme && sed 's/[Repo Name]/$(/usr/bin/basename $(pwd))/' README.md && git add . && git commit -m 'initial commit'"
 ```
 
 Then create a repo and license it with:
@@ -63,7 +64,7 @@ Then create a repo and license it with:
 create-18f-repo new-project-name
 ```
 
-It's also recommended to copy and paste [this paragraph for the end of your README](https://github.com/18F/open-source-policy/blob/master/README.md#public-domain) that sums up what's going on.
+Even if you don't create a repo, it's recommended to use [this README.md template](README_TEMPLATE.md) that sums up what's going on.
 
 ### Accepting contributions from the public
 
