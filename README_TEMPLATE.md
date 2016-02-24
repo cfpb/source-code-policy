@@ -9,9 +9,7 @@ See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
 - Main branch: `master`
 - Development branch: `develop`
 
-## Licensing
-
-### Public domain
+## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
