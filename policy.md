@@ -1,6 +1,6 @@
 # 18F: An Open Source Team
 
-[18F](https://18f.gsa.gov), a digital services delivery team within the [General Services Administration](http://gsa.gov), develops in-house digital solutions to help agencies meet the needs of the citizens and businesses it serves. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
+[18F](https://18f.gsa.gov), a digital services delivery team within the [General Services Administration](http://gsa.gov), develops in-house digital solutions to help agencies meet the needs of the people and businesses they serve. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
 
 The default position of 18F when developing new projects is to:
 
@@ -12,13 +12,13 @@ The default position of 18F when developing new projects is to:
 
 Using FOSS allows for product customization, advances interoperability between tools, and improves the overall quality of the final product. Other benefits include:
 
-1. **Flexible usage.** The benefits of using FOSS compel 18F to meet citizen and business needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
+1. **Flexible usage.** The benefits of using FOSS compel 18F to meet user needs by modifying existing or creating new FOSS. FOSS is particularly suitable for rapid prototyping and experimentation. The testing process generates minimal costs, and the process encourages the identification and elimination of defects not recognized by the original development team.
 
 1. **Community involvement.** Publicly available source code enables continuous and broad peer review. Whether simply publishing the completed code or opening the development process, the practice of expanding the review and testing process to a wider audience&mdash;beyond the development team&mdash;ensures increased software reliability and security. Developing in the open also allows for other opinions to help adjust the direction of a product to maximize its usefulness to the community it serves.
 
-1. **Cost-savings.**  The ability to modify FOSS enables 18F to respond rapidly to changing missions and markets. Support and maintenance of open source code&mdash;as opposed to more burdensome usages of proprietary software&mdash;provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F.
+1. **Cost-savings.** The ability to modify FOSS enables 18F to respond rapidly to changing missions and markets. Support and maintenance of open source code&mdash;as opposed to more burdensome usages of proprietary software&mdash;provides a real cost advantage where multiple copies of software are required, or when the user base grows. The total cost of ownership is shared with a community, rather than solely 18F.
 
-1. **Reusability.** The code we create belongs to the American people as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and citizens can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at 18F.
+1. **Reusability.** The code we create belongs to the public as a part of the public domain. The code we work on was paid for by the American people, but the end-product is not the only way they should be able to interact with their government. By coding in FOSS, we help populate a larger commons that cities, states, businesses, and individuals can participate in. This creates real economic value by lowering the burden of replicating similar work or by allowing the private sector to build off of and create new businesses around code developed at 18F.
 
 ## Maximizing Community Involvement and Reuse
 
