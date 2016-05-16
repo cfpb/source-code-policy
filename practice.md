@@ -107,21 +107,6 @@ As people open issues and request features (no matter whether the repo is in you
 
 If you think something will benefit 18F and is worth the time, then that's valuable 18F work. If it won't benefit 18F but makes the library better for other uses, that may best be done with personal time.
 
-
-### Delays and exceptions
-
-Our policy lists [3 classes of exceptions](https://github.com/18F/open-source-policy/blob/master/policy.md#exceptions) for which we will not release source code:
-
-1. We don't have the rights to release the code.
-2. The code's public release is restricted by a specific law or regulation (for example, arms control).
-3. Some other "compelling interest" that is "rare [and] documented publicly", listed below.
-
-There are a couple of categories of "compelling interests" where we may _temporarily_ delay open sourcing our work:
-
-* **Before the ink is dry**. It's common for 18F to begin work on code before formally signing and completing an "inter-agency agreement" (IAA) with our partner. Generally speaking, until an IAA is signed the project has not formally begun, and we are not able to discuss a project publicly.
-
-* **Brief experimentation**. This could be work that a team member wants to share with another team member before clearing through partner agency processes, or to "whiteboard" out an idea that they want to propose in a small group. This shouldn't last more than 10 business days, by which time the code should be made public or removed from 18F's version control systems.
-
 #### Exceptions
 
 18F currently has **no projects** for which we will not ever release the source code.
