@@ -86,7 +86,7 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 
 18F believes in [working in public](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/). It creates a healthier working environment, a more collaborative process, and just better software.
 
-All 18F team members are expected to make new source code repositories public from the time of creation.
+All 18F team members are expected to make new source code repositories public from the time of creation. This means we often publish drafts in our repos that may change substantially. If you're interested in learning more about the contents of a repo, email 18F@gsa.gov and we'll direct you to the right person or team.
 
 ### Managing 18F resources
 
