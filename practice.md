@@ -94,7 +94,7 @@ As part of responsibly working in the open, 18F team members are expected to pro
 
 If 18F team members aren't sure whether they should make something public, they can ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#compliance](https://18f.slack.com/messages/compliance), but ask a general question on the _type_ of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
 
-Sensitive information we need to protect includes, but is not limted to:
+Sensitive information we need to protect includes, but is not limited to:
 
 * Information an attacker could plausibly use to help them compromise a live system. Examples:
     * **Secrets:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secrets” that protect access to something.
