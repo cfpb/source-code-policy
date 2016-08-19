@@ -74,7 +74,7 @@ Projects can **encourage public contributions** by:
 
 * Creating open issues where public help would be especially welcome.
 * Labeling those issues with `help wanted` so people can scan issues quickly and [services](http://www.codeforamerica.org/geeks/civicissues) can aggregate volunteer opportunities.
-* Asking for it, in the README and in other public writing about the project.
+* Asking for contributions, in the README and in other public writing about the project.
 * Providing solid documentation for any project setup process.
 * Being super nice when communicating with volunteers.
 
@@ -90,18 +90,18 @@ All 18F team members are expected to make new source code repositories public fr
 
 #### Protecting sensitive information
 
-As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already get training and guidance about information we can’t publish for ethical, legal, communications, and security reasons — this section is just a reminder about sensitive information (formally called “controlled unclassified information”) to especially carefully protect when working with our open source projects. Sensitive information can be code, configuration, content, or documentation.
+As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for ethical, legal, and security reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can be code, configuration, content, or documentation.
 
-If 18F team members aren't sure whether they should make something public, they can ask a person on our 18F Infrastructure team for advice. (Try asking in #compliance, but ask a general question instead of pasting the actual information, since we can't put sensitive information in Slack.)
+If 18F team members aren't sure whether they should make something public, they can ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#compliance](https://18f.slack.com/messages/compliance), but ask a general question on the _type_ of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
 
-Sensitive information we need to protect includes:
+Sensitive information we need to protect includes, but is not limted to:
 
 * Information an attacker could plausibly use to help them compromise a live system. Examples:
     * **Secrets:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secrets” that protect access to something.
     * **Routing information:** IP addresses (both internal and external). If something looks like an IP address, ask 18F Infrastructure before publishing that info.
-    * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with a common freely-available scanning tool), we shouldn’t write publicly about it until we fix it.
-* Personally Identifiable Information (PII). Here’s [GSA’s definition and policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
-* Some kinds of procurement and acquisition information, which may include cost or pricing data, contract information, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists (#acquisition) for help determining whether it can be public.
+    * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
+* Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
+* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists (#acquisition) for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
 There are more categories of controlled unclassified information to protect; those are just the four that we work with most often. [Here’s the complete list.](http://www.archives.gov/cui/registry/category-list.html)
