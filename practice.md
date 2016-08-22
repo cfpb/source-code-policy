@@ -88,7 +88,7 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 
 All 18F team members are expected to make new source code repositories public from the time of creation. This means we often publish drafts in our repos that may change substantially. If you're interested in learning more about the contents of a repo, email 18F@gsa.gov and we'll direct you to the right person or team.
 
-#### Protecting sensitive information
+### Protecting sensitive information
 
 As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security reasons](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
 
