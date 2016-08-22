@@ -4,7 +4,7 @@ This document is meant to give specific team guidance on putting our [open sourc
 
 * 18F releases software into the [international public domain](#public-domain).
 * All team members should feel empowered to contribute back to outside open source projects.
-* We [develop our software in the open](#working-in-public).
+* We [develop our software in the open](#working-in-public), while also [protecting sensitive information](#protecting-sensitive-information).
 * There are [narrow, documented exceptions](#exceptions) where source code may be delayed or withheld.
 
 18F team members should work with the strong presumption that all of their code will be public, throughout and after development.
@@ -74,7 +74,7 @@ Projects can **encourage public contributions** by:
 
 * Creating open issues where public help would be especially welcome.
 * Labeling those issues with `help wanted` so people can scan issues quickly and [services](http://www.codeforamerica.org/geeks/civicissues) can aggregate volunteer opportunities.
-* Asking for it, in the README and in other public writing about the project.
+* Asking for contributions, in the README and in other public writing about the project.
 * Providing solid documentation for any project setup process.
 * Being super nice when communicating with volunteers.
 
@@ -87,6 +87,26 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 18F believes in [working in public](https://18f.gsa.gov/2014/07/31/working-in-public-from-day-1/). It creates a healthier working environment, a more collaborative process, and just better software.
 
 All 18F team members are expected to make new source code repositories public from the time of creation. This means we often publish drafts in our repos that may change substantially. If you're interested in learning more about the contents of a repo, email 18F@gsa.gov and we'll direct you to the right person or team.
+
+#### Protecting sensitive information
+
+As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security reasons](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
+
+If 18F team members aren't sure whether they should make something public, they can ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#compliance](https://18f.slack.com/messages/compliance), but ask a general question on the _type_ of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
+
+If 18F team members inadvertently come into the possession of *classified information*, (Secret, Top Secret, etc) they should immediately follow the [security incident process](https://github.com/18F/security-incidents/).
+
+Sensitive information we need to protect includes, but is not limited to:
+
+* Information an attacker could plausibly use to help them compromise a live system. Examples:
+    * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something
+    * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
+* We may wish to withhold some non-18F IP addresses. If something looks like an IP address, ask 18F Infrastructure before publishing that info.
+* Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
+* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists ([#acquisition](https://18f.slack.com/messages/acquisition/)) for help determining whether it can be public.
+* Emergency procedures, such as evacuation plans.
+
+There are more categories of controlled unclassified information to protect; those are just the four that we work with most often. [Here’s the complete list.](http://www.archives.gov/cui/registry/category-list.html)
 
 ### Managing 18F resources
 
@@ -113,4 +133,4 @@ If you think something will benefit 18F and is worth the time, then that's valua
 
 18F has one project where source code will be released at a later time:
 
-* [US Citizenship & Immigration Services](http://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
+* [US Citizenship & Immigration Services](https://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
