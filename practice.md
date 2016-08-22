@@ -90,18 +90,18 @@ All 18F team members are expected to make new source code repositories public fr
 
 #### Protecting sensitive information
 
-As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security reasons](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can be code, configuration, content, or documentation.
+As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security reasons](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
 
 If 18F team members aren't sure whether they should make something public, they can ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#compliance](https://18f.slack.com/messages/compliance), but ask a general question on the _type_ of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
 
 Sensitive information we need to protect includes, but is not limited to:
 
 * Information an attacker could plausibly use to help them compromise a live system. Examples:
-    * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
-    * **Routing information:** IP addresses (both internal and external). If something looks like an IP address, ask 18F Infrastructure before publishing that info.
+    * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something
     * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
+* We may wish to withhold some non-18F IP addresses. If something looks like an IP address, ask 18F Infrastructure before publishing that info.
 * Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
-* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists (#acquisition) for help determining whether it can be public.
+* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists ([#acquisition](https://18f.slack.com/messages/acquisition/)) for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
 There are more categories of controlled unclassified information to protect; those are just the four that we work with most often. [Here’s the complete list.](http://www.archives.gov/cui/registry/category-list.html)
@@ -131,4 +131,4 @@ If you think something will benefit 18F and is worth the time, then that's valua
 
 18F has one project where source code will be released at a later time:
 
-* [US Citizenship & Immigration Services](http://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
+* [US Citizenship & Immigration Services](https://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
