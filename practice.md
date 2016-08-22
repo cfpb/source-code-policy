@@ -97,7 +97,7 @@ If 18F team members aren't sure whether they should make something public, they 
 Sensitive information we need to protect includes, but is not limited to:
 
 * Information an attacker could plausibly use to help them compromise a live system. Examples:
-    * **Secrets:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secrets” that protect access to something.
+    * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
     * **Routing information:** IP addresses (both internal and external). If something looks like an IP address, ask 18F Infrastructure before publishing that info.
     * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
 * Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
