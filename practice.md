@@ -90,7 +90,7 @@ All 18F team members are expected to make new source code repositories public fr
 
 ### Protecting sensitive information
 
-As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
+As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation. (We have [approved options for sharing sensitive information](https://handbook.18f.gov/sensitive-information/).)
 
 If 18F team members aren't sure whether they should make something public, they should ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#infrastructure](https://18f.slack.com/messages/infrastructure), but ask a general question about the type of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
 
@@ -98,7 +98,7 @@ If 18F team members inadvertently come into the possession of classified informa
 
 Sensitive information we need to protect includes, but is not limited to:
 
-* Information an attacker could plausibly use to help them compromise a system. Examples:
+* Information an attacker could plausibly use to help them compromise any system (including a prototype/development system). Examples:
     * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
     * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that isn’t easy to find with scanning tools), we shouldn’t write publicly about it until we fix it.
 * Nonpublic information in general about vulnerabilities, including attribution/source information (such as how and when we learned about a vulnerability, if the disclosure to us was not public).
