@@ -90,11 +90,11 @@ All 18F team members are expected to make new source code repositories public fr
 
 ### Protecting sensitive information
 
-As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security](https://gsaolu.gsa.gov/learn6.asp?courseid=11779) reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
+As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security](https://insite.gsa.gov/portal/content/627226) reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation.
 
-If 18F team members aren't sure whether they should make something public, they should ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#infrastructure](https://18f.slack.com/messages/infrastructure), but ask a general question about the type of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
+If 18F team members aren't sure whether they should make something public, they should ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure), but ask a general question about the type of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
 
-If 18F team members inadvertently come into the possession of classified information (Secret, Top Secret, etc.), they should immediately follow our [security incident process](https://github.com/18F/security-incidents/).
+If 18F team members inadvertently come into the possession of classified information (Secret, Top Secret, etc.), they should immediately follow our [security incident process](https://handbook.18f.gov/security-incidents/).
 
 Sensitive information we need to protect includes, but is not limited to:
 
@@ -104,10 +104,10 @@ Sensitive information we need to protect includes, but is not limited to:
 * Nonpublic information in general about vulnerabilities, including attribution/source information (such as how and when we learned about a vulnerability, if the disclosure to us was not public).
 * We may wish to withhold some non-18F IP addresses. If something looks like an IP address, ask 18F Infrastructure before publishing that info.
 * Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
-* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists ([#acquisition](https://18f.slack.com/messages/acquisition/)) for help determining whether it can be public.
+* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists ([#acquisition](https://gsa-tts.slack.com/messages/acquisition/)) for help determining whether it can be public.
 * Emergency procedures, such as evacuation plans.
 
-There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. [Here’s the complete list.](http://www.archives.gov/cui/registry/category-list.html)
+There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. [Here’s the complete list.](https://www.archives.gov/cui/registry)
 
 ### Managing 18F resources
 
