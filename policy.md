@@ -68,6 +68,11 @@ These decisions will be made as needed by the 18F Infrastructure team, which wil
 
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
+## Further Reading
+[GSA Open Source Policy](https://open.gsa.gov/oss-policy/) - 18F Open Source Policy builds upon the Agency developed one that was created based on the OMB policy M-16-21.
+
+[OMB M-16-21](https://sourcecode.cio.gov/) - White House policy on open source software.  This is the policy directing all agencies to publish custom developed code as open source code, update acquisition requirements to capture code developed by vendors for GSA, and to inventory all [code](https://open.gsa.gov/code.json), open and closed.
+
 ## Thanks
 
 18F would like to thank the Consumer Financial Protection Bureau, Department of Defense, and Office of Management and Budget for their work in blazing the path for the use of FOSS in the Federal Government.
