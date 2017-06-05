@@ -70,7 +70,7 @@ If an existing solution cannot be found in the open source community, 18F may co
 
 ## Further Reading
 
-[OMB M-16-21](https://sourcecode.cio.gov/) - A White House policy pertaining federal source code, published by the White House Office of Management and Budget. M-16-21 directs all agencies to publish some custom developed code as open source code, to update acquisition requirements to capture code developed by vendors for GSA, and to inventory [all open- and closed-source code](https://open.gsa.gov/code.json).
+[OMB M-16-21](https://sourcecode.cio.gov/) - A White House policy pertaining to federal source code, published by the White House Office of Management and Budget. M-16-21 directs all agencies to publish some custom developed code as open source code, to update acquisition requirements to capture code developed by vendors for GSA, and to inventory [all open- and closed-source code](https://open.gsa.gov/code.json).
 
 [GSA Open Source Policy](https://open.gsa.gov/oss-policy/) - GSA's agency-wide open source policy, created based on OMB's M-16-21 policy.
 
