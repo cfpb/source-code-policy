@@ -29,6 +29,21 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 > Yes. If the improvements are written by US government employees in the course of their employment, then the improvements are in the public domain. However, the improved version, as a whole, is still covered by the GNU GPL. There is no problem in this situation.
 
+### Contributor License Agreements (CLAs)
+
+Some external projects have CLAs. You cannot sign these yourself, in your official capacity.
+
+1. See if there is an organizational CLA available.
+1. Send the agreement to GSA's Office of General Counsel (OGC) for review.
+    * Ask in [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff) for who the best contact is.
+1. Collect names/emails/GitHub usernames (whatever is needed) for folks you think will be contributing.
+    * Usually easier to add too many than too few.
+1. Get it signed.
+1. Contribute.
+
+18F currently has the following CLAs signed:
+
+* [Cloud Foundry Foundation](https://www.cloudfoundry.org/governance/#docs) ([revised](https://docs.google.com/document/d/10HQY0X6SlyryhPpUrHsYtr9xYH7JYRAPk_5Ign2Du5E/edit))
 
 ## How to license 18F repos
 
