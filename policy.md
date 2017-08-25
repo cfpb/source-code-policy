@@ -66,8 +66,6 @@ The only conditions where code shall not be developed and released in the open a
 
 These decisions will be made as needed by the 18F Infrastructure team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
 
-An explanation of the decision not to release the code publicly will be documented and a link to that explanation will be provided in the code's README to preserve that knowledge and so the decision can be revisited in the future if circumstances change.
-
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
 
 ## Thanks

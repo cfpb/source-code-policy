@@ -109,6 +109,10 @@ Sensitive information we need to protect includes, but is not limited to:
 
 There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. [Here’s the complete list.](https://www.archives.gov/cui/registry)
 
+### Private repositories
+
+If the 18F Infrastructure team determines that a repository should not be public, as described in the [open source policy](policy.md#Exceptions), the reasoning should be documented and a link to that reasoning provided in the repository's `README` to preserve that knowledge and so the decision can be revisited in the future if circumstances change.  If the underlying reasons for making the repository private are not themselves sensitive, this explanation can be placed directly in the `README`.
+
 ### Managing 18F resources
 
 18F intends to produce great software for the American people. That means not just rushing through projects to get them working as fast as possible, but managing [technical debt](https://en.wikipedia.org/wiki/Technical_debt) with an eye towards usability and reusability.
