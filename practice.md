@@ -111,7 +111,7 @@ There are more categories of controlled unclassified information to protect; tho
 
 ### Private repositories
 
-If the 18F Infrastructure team determines that a repository should not be public, as described in the [open source policy](policy.md#Exceptions), the reasoning should be documented and a link to that reasoning provided in the repository's `README` to preserve that knowledge and so the decision can be revisited in the future if circumstances change.  If the underlying reasons for making the repository private are not themselves sensitive, this explanation can be placed directly in the `README`.
+If the 18F Infrastructure team determines that a repository should not be public, as described in the [open source policy](policy.md#exceptions), the reasoning should be documented and a link to that reasoning provided in the repository's `README` to preserve that knowledge and so the decision can be revisited in the future if circumstances change.  If the underlying reasons for making the repository private are not themselves sensitive, this explanation can be placed directly in the `README`.
 
 ### Managing 18F resources
 
