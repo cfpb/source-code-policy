@@ -45,6 +45,8 @@ Some external projects have CLAs. You cannot sign these yourself, in your offici
 18F currently has the following CLAs signed:
 
 * [Cloud Foundry Foundation](https://www.cloudfoundry.org/governance/#docs) ([revised](https://docs.google.com/document/d/10HQY0X6SlyryhPpUrHsYtr9xYH7JYRAPk_5Ign2Du5E/edit))
+* [Google](https://cla.developers.google.com/clas)
+    * Join the [open source contributors Google Group](https://groups.google.com/a/gsa.gov/forum/#!forum/oss-contributors)
 
 ## How to license 18F repos
 
