@@ -39,6 +39,7 @@ Some external projects have CLAs. You cannot sign these yourself, in your offici
 1. Collect names/emails/GitHub usernames (whatever is needed) for folks you think will be contributing.
     * Usually easier to add too many than too few.
 1. Get it signed.
+1. Add to list below.
 1. Contribute.
 
 18F currently has the following CLAs signed:
