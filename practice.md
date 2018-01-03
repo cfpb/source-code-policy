@@ -128,13 +128,9 @@ As people open issues and request features (no matter whether the repo is in you
 
 If you think something will benefit 18F and is worth the time, then that's valuable 18F work. If it won't benefit 18F but makes the library better for other uses, that may best be done with personal time.
 
-### Deprecating a repository
+### Archiving a repository
 
-When a repository is no longer useful, it should be deprecated. This may be because the work has been incorporated into another repository, the project is unmaintained and out-of-date, or some other reason.
-
-In order to preserve repository metadata like pull request discussions and issues, the repository should not be deleted or made private. Instead, a prominent deprecation notice should be added. This notice should include the project's status as deprecated, a reason for the deprecation, and (if applicable) a link to the repository where work is continuing.
-
-The deprecation notice should be added to the top of the project's `README`, and the description field should be changed to reflect the project's status as deprecated.
+When a repository is no longer useful, it should be [archived](https://help.github.com/articles/archiving-repositories/). This may be because the work has been incorporated into another repository, the project is unmaintained and out-of-date, or some other reason. In order to preserve repository metadata like pull request discussions and issues, the repository should not be deleted or made private.
 
 ### Exceptions
 
