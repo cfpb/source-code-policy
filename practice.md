@@ -35,7 +35,7 @@ Some external projects have CLAs. You cannot sign these yourself, in your offici
 
 1. See if there is an organizational CLA available.
 1. Send the agreement to GSA's Office of General Counsel (OGC) for review.
-    * Ask in [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff) for who the best contact is.
+    * Ask in [#wg-opensource](https://gsa-tts.slack.com/messages/wg-opensource) or [#legalstuff](https://gsa-tts.slack.com/messages/legalstuff) for who the best contact is.
 1. Collect names/emails/GitHub usernames (whatever is needed) for folks you think will be contributing.
     * Usually easier to add too many than too few.
 1. Get it signed.
