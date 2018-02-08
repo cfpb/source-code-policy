@@ -29,6 +29,8 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 > Yes. If the improvements are written by US government employees in the course of their employment, then the improvements are in the public domain. However, the improved version, as a whole, is still covered by the GNU GPL. There is no problem in this situation.
 
+See also: [The Department of Defense's FAQ question about this](http://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Can_government_employees_contribute_code_to_open_source_software_projects.3F).
+
 ### Contributor License Agreements (CLAs)
 
 Some external projects have CLAs. You cannot sign these yourself, in your official capacity.
