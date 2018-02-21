@@ -30,7 +30,9 @@ Code written entirely by 18F staff will be dedicated to the public domain. In ad
 
 Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"](http://www.copyright.gov/title17/92chap1.html#101) and must be released under terms permitted by the original open source license.
+This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under terms permitted by the original open source license.
+
+  [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
 
 The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
 
