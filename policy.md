@@ -30,9 +30,7 @@ Code written entirely by 18F staff will be dedicated to the public domain. In ad
 
 Forks or clones of our code repositories are free to be re-distributed. This means code created by 18F can be integrated into work that is under a more restrictive license, even those that are not considered open source licenses.
 
-This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"] [4] and must be released under terms permitted by the original open source license.
-
-  [4]: http://www.copyright.gov/title17/92chap1.html#101 "Joint Work"
+This changes when our code repositories include code that was not created by 18F and carries an open license. Code previously released under an open source license and then modified by 18F or its contractors is considered a ["joint work"](http://www.copyright.gov/title17/92chap1.html#101) and must be released under terms permitted by the original open source license.
 
 The public can use our code as the basis of wholly proprietary and commercial systems. 18F would appreciate that users of our code disclose its lineage, but 18F maintains no legal right to require disclosure. Notifications that our work is used in a new system are always greatly appreciated.
 
@@ -67,6 +65,12 @@ The only conditions where code shall not be developed and released in the open a
 These decisions will be made as needed by the 18F Infrastructure team, which will lead an interdisciplinary team to review the conditions under which code will not be made available publicly. Any further exemptions will be rare, documented publicly, and the result of compelling interest.
 
 If an existing solution cannot be found in the open source community, 18F may consider other options, including creating an open source solution itself. Ultimately, the software that best meets the needs and mission of 18F should be used.
+
+## Further Reading
+
+[OMB M-16-21](https://sourcecode.cio.gov/) - A White House policy pertaining to federal source code, published by the White House Office of Management and Budget. M-16-21 directs all agencies to publish some custom developed code as open source code, to update acquisition requirements to capture code developed by vendors for GSA, and to inventory [all open- and closed-source code](https://open.gsa.gov/code.json).
+
+[GSA Open Source Policy](https://open.gsa.gov/oss-policy/) - GSA's agency-wide open source policy, created based on OMB's M-16-21 policy.
 
 ## Thanks
 
