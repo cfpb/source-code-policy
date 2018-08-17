@@ -29,6 +29,8 @@ As [the Free Software Foundation says](https://www.gnu.org/licenses/gpl-faq.html
 
 > Yes. If the improvements are written by US government employees in the course of their employment, then the improvements are in the public domain. However, the improved version, as a whole, is still covered by the GNU GPL. There is no problem in this situation.
 
+See also: [The Department of Defense's FAQ question about this](http://dodcio.defense.gov/Open-Source-Software-FAQ/#Q:_Can_government_employees_contribute_code_to_open_source_software_projects.3F).
+
 ### Contributor License Agreements (CLAs)
 
 Some external projects have CLAs. You cannot sign these yourself, in your official capacity.
@@ -156,6 +158,7 @@ When a repository is no longer useful, it should be [archived](https://help.gith
 
 ## Exceptions
 
-18F currently has **no projects** for which we will not ever release the source code. 18F has one project where source code will be released at a later time:
+18F currently has **no projects** for which we will not ever release the source code. 18F has two projects where source code will be released at a later time:
 
+* [login.gov](https://login.gov) - The infrastructure code was created in private repositories, though [much of their other code](https://github.com/18F?q=identity) is open source.
 * [US Citizenship & Immigration Services](https://www.uscis.gov/) - Project agreement pre-dated the creation of 18F's open source policy. 18F will work with USCIS to coordinate publication of source code as components are publicly released. Components based on existing open source projects will remain open throughout development.
