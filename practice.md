@@ -21,7 +21,9 @@ To the extent 18F has the rights to do so, 18F will normalize the copyright stat
 
 ## Contributing back to outside projects
 
-18F staff are encouraged to contribute back any modifications or improvements they make to open source software projects outside 18F -- whether government or non-government -- in the course of their work. When 18F staff begin modifications to outside work, they should plan with eventual upstream contribution in mind.
+18F staff are encouraged to seek existing, open source solutions -- whether government or non-government -- before writing custom tools. When existing libraries need to be modified or improved, 18F staff should make the modifications with eventual upstream contribution in mind.
+
+In practice, this generally involves forking the relevant repository to the 18F organization within GitHub, creating a new branch with the modifications, and sending a pull request to upstream from the 18F fork. Unlike our own projects, there is no need for internal code review in this scenario (though it doesn't hurt).
 
 In terms of licensing: as works of the government, employee contributions are public domain in the United States, regardless of the outside project's contribution agreement. This does not change the overall license status of the outside project.
 
