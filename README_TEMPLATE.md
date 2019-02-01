@@ -1,5 +1,11 @@
 # [Repo Name]
 
+## Why this project
+
+Here are the goals of this project and how we'll measure its success.
+
+- 
+
 ## Contributing
 
 See [CONTRIBUTING](CONTRIBUTING.md) for additional information.
