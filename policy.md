@@ -40,7 +40,7 @@ As previously mentioned, most work generated at 18F falls within the U.S. public
 
 For our international colleagues, 18F also permanently waives all copyright and related rights worldwide to code created by 18F or its contractors.
 
-Our [default LICENSE file](LICENSE.md) for projects acknowledges that our work is in the US public domain, and uses [CC0](https://creativecommons.org/publicdomain/zero/1.0/) to waive copyright internationally.
+Our [default LICENSE file](LICENSE.md) for projects acknowledges that our work is in the U.S. public domain, and uses [CC0](https://creativecommons.org/publicdomain/zero/1.0/) to waive copyright internationally.
 
 Our [default CONTRIBUTING file](CONTRIBUTING.md) informs contributors that their contributions will be licensed under the same terms.
 
