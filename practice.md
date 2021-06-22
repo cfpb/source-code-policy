@@ -110,6 +110,10 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 
 All 18F team members are expected to make new source code repositories public from the time of creation. This means we often publish drafts in our repos that may change substantially. If you're interested in learning more about the contents of a repo, email 18F@gsa.gov and we'll direct you to the right person or team.
 
+## Protecting sensitive information
+
+There are several types of information that should not be included in open source repositories. See the [TTS Handbook for how to handle sensitive information](https://handbook.tts.gsa.gov/sensitive-information/).
+
 ## Private repositories
 
 If the 18F Infrastructure team determines that a repository should not be public, as described in the [open source policy](policy.md#exceptions), the reasoning should be documented and a link to that reasoning provided in the repository's `README` to preserve that knowledge and so the decision can be revisited in the future if circumstances change.  If the underlying reasons for making the repository private are not themselves sensitive, this explanation can be placed directly in the `README`.
