@@ -110,27 +110,6 @@ When an 18F project has a non-standard license status (e.g. it's a fork of a pre
 
 All 18F team members are expected to make new source code repositories public from the time of creation. This means we often publish drafts in our repos that may change substantially. If you're interested in learning more about the contents of a repo, email 18F@gsa.gov and we'll direct you to the right person or team.
 
-## Protecting sensitive information
-
-As part of responsibly working in the open, 18F team members are expected to protect information that needs to be protected. We already receive training and guidance about information we can’t publish for [ethical](https://www.oge.gov/web/oge.nsf/Topics), [legal](https://handbook.18f.gov/intro-to-18f-infrastructure/), and [security](https://insite.gsa.gov/portal/content/627226) reasons — this section is a reminder about sensitive information (formally called “[controlled unclassified information](http://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-171.pdf)”) to carefully protect when working with our open source projects. Sensitive information can include code, configuration, content, or documentation. (We have [approved options for sharing sensitive information](https://handbook.18f.gov/sensitive-information/).)
-
-If 18F team members aren't sure whether they should make something public, they should ask a person on our 18F Infrastructure team for advice _first_. (Try asking in [#infrastructure](https://gsa-tts.slack.com/messages/infrastructure), but ask a general question about the type of information, instead of pasting the actual information, since we can't put sensitive information in Slack.)
-
-If 18F team members inadvertently come into the possession of classified information (Secret, Top Secret, etc.), they should immediately follow our [security incident process](https://handbook.18f.gov/security-incidents/).
-
-Sensitive information we need to protect includes, but is not limited to:
-
-* Information an attacker could plausibly use to help them compromise any system (including a prototype/development system). Examples:
-    * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
-    * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that can’t be found with a publicly-available open source scanning tool run on the public-facing system), we shouldn’t write publicly about it until we fix it.
-* Nonpublic information in general about vulnerabilities, including attribution/source information (such as how and when we learned about a vulnerability, if the disclosure to us was not public).
-* We may wish to withhold some non-18F IP addresses. If something looks like an IP address, ask 18F Infrastructure before publishing that info.
-* Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
-* Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates. If you’re an 18F team member working with this kind of data, ask our acquisition specialists ([#acquisition](https://gsa-tts.slack.com/messages/acquisition/)) for help determining whether it can be public.
-* Emergency procedures, such as evacuation plans.
-
-There are more categories of controlled unclassified information to protect; those are just the kinds that we work with most often. [Here’s the complete list.](https://www.archives.gov/cui/registry)
-
 ## Private repositories
 
 If the 18F Infrastructure team determines that a repository should not be public, as described in the [open source policy](policy.md#exceptions), the reasoning should be documented and a link to that reasoning provided in the repository's `README` to preserve that knowledge and so the decision can be revisited in the future if circumstances change.  If the underlying reasons for making the repository private are not themselves sensitive, this explanation can be placed directly in the `README`.
