@@ -4,7 +4,7 @@ This document is meant to give specific team guidance on putting our [open sourc
 
 * 18F releases software into the [international public domain](#public-domain).
 * All team members should feel empowered to contribute back to outside open source projects.
-* We [develop our software in the open](#working-in-public), while also [protecting sensitive information](#protecting-sensitive-information).
+* We [develop our software in the open](#working-in-public), while also [protecting sensitive information](https://handbook.tts.gsa.gov/sensitive-information/).
 * There are [narrow, documented exceptions](#exceptions) where we may delay or withhold source code.
 
 18F team members should work with the strong presumption that all of their code will be public, throughout and after development.
